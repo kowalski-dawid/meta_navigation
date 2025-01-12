@@ -1,7 +1,7 @@
 ---
 title: Modular Synthesizers for Dummies
 layout: default
-parent: index.md
+parent: Meta Navigation Site
 nav_order: 3
 ---
 
