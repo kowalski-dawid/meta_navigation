@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Meta Navigation Site
 layout: home
 ---
 
