@@ -1,7 +1,8 @@
 ---
 title: Live Resume
 layout: default
-nav_order: 2
+parent: index.md
+nav_order: 1
 ---
 
-This is my Live Resume.
+This is my Live Resume project.

@@ -1,8 +1,11 @@
 ---
-title: MarkdownExercise
+title: Markdown Exercise
 layout: default
-nav_order: 2
+parent: index.md
+nav_order: 1
 ---
+
+This is my Markdown Exercise project.
 
 - [Visual elements](#visual-elements)
   - [Bold text](#bold-text)
