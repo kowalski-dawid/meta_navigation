@@ -1,4 +1,8 @@
-# Title <!-- omit in toc -->
+---
+title: MarkdownExercise
+layout: default
+nav_order: 2
+---
 
 - [Visual elements](#visual-elements)
   - [Bold text](#bold-text)
