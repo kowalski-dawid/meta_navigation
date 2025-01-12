@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Meta Navigation Site
+description: A website for simplified management and navigation of my GitHiub repositories.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://kowalski-dawid.github.io/meta_navigation
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/kowalski-dawid/meta_navigation
+
